@@ -2,4 +2,4 @@
 
 ## IDTM, PSU Trang
 
-## September 22, 2026
+## September 2, 2026
